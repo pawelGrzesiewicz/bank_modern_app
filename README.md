@@ -6,13 +6,13 @@ Welcome to Hoobank, a modern banking web application.
 
 - [Description](#description)
 - [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Development](#development)
   - [Build](#build)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Description
@@ -24,6 +24,25 @@ Hoobank is a web application that provides modern and efficient banking solution
 - Feature 1
 - Feature 2
 - Feature 3
+
+## Technologies Used
+
+Technologies Used
+React
+Vite
+Tailwind CSS
+PostCSS
+Autoprefixer
+
+## Contributing
+
+If you would like to contribute to the project, follow these steps:
+
+- Fork the repository.
+- Create a new branch for your feature: git checkout -b feature-name.
+- Commit your changes: git commit -m 'Add some feature'.
+- Push to the branch: git push origin feature-name.
+- Submit a pull request.
 
 ## Getting Started
 
@@ -46,21 +65,3 @@ cd hoobank
 # Install dependencies
 npm install
 
-## Technologies Used
-
-Technologies Used
-React
-Vite
-Tailwind CSS
-PostCSS
-Autoprefixer
-
-## Contributing
-
-If you would like to contribute to the project, follow these steps:
-
-- Fork the repository.
-- Create a new branch for your feature: git checkout -b feature-name.
-- Commit your changes: git commit -m 'Add some feature'.
-- Push to the branch: git push origin feature-name.
-- Submit a pull request.
