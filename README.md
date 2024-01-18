@@ -28,11 +28,11 @@ Hoobank is a web application that provides modern and efficient banking solution
 ## Technologies Used
 
 Technologies Used
-React
-Vite
-Tailwind CSS
-PostCSS
-Autoprefixer
+- React
+- Vite
+- Tailwind CSS
+- PostCSS
+- Autoprefixer
 
 ## Contributing
 
