@@ -21,9 +21,9 @@ Hoobank is a web application that provides modern and efficient banking solution
 
 ## Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+**Responsive Design:** Hoobank is built with a responsive design, ensuring a seamless experience across various devices.
+**User-friendly Interface:** The user interface is designed with simplicity in mind, making it easy for users to navigate and perform actions.
+
 
 ## Technologies Used
 
